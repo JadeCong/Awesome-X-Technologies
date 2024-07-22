@@ -1,6 +1,6 @@
 # Awesome-X-Technologies
 
-Awesome Lists about X Technologies.
+> Awesome Lists about X Technologies.
 
 ---
 
