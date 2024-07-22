@@ -8,7 +8,15 @@
 
 ---
 
-## 2. Anti-Gravity Research
+## 2. Anti-Gravity
+
+### (1) Background
+
+### (2) Current Technology
+
+### (3) Related Experiment
+
+### (4) Product Development
 
 ---
 
